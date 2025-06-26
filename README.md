@@ -1,4 +1,4 @@
-# 🎓 Study Vault - Cloud Notes to Audio with AI Summary
+# 🎓 StudyBuddy Cloud- Cloud Notes to Audio with AI Summary
 
 Study Vault is a web-based tool that allows students to:
 - Upload `.txt` study notes
